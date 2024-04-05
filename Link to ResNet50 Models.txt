@@ -1,0 +1,5 @@
+Please find the two ResNet50 models described in the report in the folder shared by the following link:
+
+https://imperiallondon-my.sharepoint.com/:f:/g/personal/jz4520_ic_ac_uk/Eo2GyuIxwktMpVT7qLAqDYUB7KEzfpERv_uz1-GoYH4WvA?e=uT3bTH
+
+Note: An Imperial account is required for access of this folder.
